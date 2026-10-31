@@ -2,7 +2,7 @@
 
 Supply Chain Analytics, homework week 1. The assignment is in `Homework_1.pdf`.
 
-- `homework1.ipynb`: the analysis (parts I–IV so far)
+- `homework1.ipynb`: the analysis (parts I–V so far)
 - `data/Homework1_TSA130.csv`: monthly passengers (x1000), Jan-14 to Oct-24
 
 ## Run
